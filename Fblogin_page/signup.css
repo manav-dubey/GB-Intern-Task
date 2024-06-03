@@ -1,0 +1,23 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing:border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: rgba(0, 68, 255, 0.092);
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 20%;
+}
+
+.gender-box {
+    display: flex;
+    
+}
