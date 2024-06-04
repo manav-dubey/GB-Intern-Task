@@ -12,6 +12,8 @@ function ageFunc(){
     if(age <18){
         alert("You are underage");
         return ;
+    }else {
+        alert("Form is submitted");
     }
 
 }
